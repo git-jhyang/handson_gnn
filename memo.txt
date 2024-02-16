@@ -1,0 +1,25 @@
+GNN을 활용한 소재 연구
+
+- 환경 구축
+  - anaconda, vscode (?), github (?)
+  - python
+  - gpu 머신의 특징
+
+혹시 모르니 CPU로도 테스트
+
+- 데이터
+  - MP 데이터 활용 / API 에 대한 내용
+  - 데이터 표현 - feature로 활용할 수 있는 다양한 정보
+  - 유용한 툴 - pymatgen
+
+- ML 의 기초
+  - regression / classification / supervised / unsupervised 
+  - clustering / manifold 
+  - kmeans, tsne, xgboost, lr 붓꽃 데이터 가져와보자
+
+- GNN
+  - 기본 구조 및 원리
+  - 그 외 다양한 기법들 / batchnorm, dropout, validation, test
+  - 적용  
+
+
