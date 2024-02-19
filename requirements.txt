@@ -1,0 +1,10 @@
+pytorch::pytorch==1.12
+pyg::pyg
+conda-forge::pymatgen
+scikit-learn
+jupyter
+ipykernel
+matplotlib
+numpy
+pandas
+xgboost

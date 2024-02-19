@@ -24,4 +24,4 @@ GNN을 활용한 소재 연구
   - 그 외 다양한 기법들 / batchnorm, dropout, validation, test
   - 적용  
 
-
+https://api.materialsproject.org/redoc
