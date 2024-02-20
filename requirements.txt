@@ -1,10 +1,13 @@
 pytorch::pytorch==1.12
 pyg::pyg
 conda-forge::pymatgen
+conda-forge::mp-api
+conda-forge::bayesian-optimization
 scikit-learn
 jupyter
 ipykernel
 matplotlib
+seaborn
 numpy
 pandas
 xgboost

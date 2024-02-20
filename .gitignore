@@ -1,5 +1,5 @@
 # user defined files
-dump
+*dump*
 .credential.json
 
 # Byte-compiled / optimized / DLL files
