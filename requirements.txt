@@ -3,6 +3,7 @@ pyg::pyg
 conda-forge::pymatgen
 conda-forge::mp-api
 conda-forge::bayesian-optimization
+conda-forge::mendeleev
 scikit-learn
 jupyter
 ipykernel
@@ -11,3 +12,5 @@ seaborn
 numpy
 pandas
 xgboost
+tensorboard
+setuptools==58
