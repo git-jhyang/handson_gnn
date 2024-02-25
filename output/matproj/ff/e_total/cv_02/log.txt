@@ -1,0 +1,3 @@
+Epoch:  287 / Train loss:    0.45145
+Valid Loss / EnergyR2 / EnergyMAE / ForceMAE:    0.11913 /    0.95334 /   22.88790 /    0.11594
+Test Loss / EnergyR2 / EnergyMAE / ForceMAE :    2.06788 /   -6.41549 /  239.12151 /    0.53769

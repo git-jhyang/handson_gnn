@@ -4,11 +4,11 @@ conda-forge::pymatgen
 conda-forge::mp-api
 conda-forge::bayesian-optimization
 conda-forge::mendeleev
+conda-forge::seaborn==0.13
 scikit-learn
 jupyter
 ipykernel
 matplotlib
-seaborn
 numpy
 pandas
 xgboost
