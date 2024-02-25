@@ -1,3 +1,0 @@
-Epoch:   47 / Train loss:    0.46416
-Valid Loss / R2 / MAE :    0.52547 /    0.31138 /    0.52547
-Test Loss / R2 / MAE  :    0.52482 /    0.38990 /    0.52482
